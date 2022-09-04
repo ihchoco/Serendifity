@@ -1,6 +1,7 @@
 package com.example.serentifity.Repository;
 
 import com.example.serentifity.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
